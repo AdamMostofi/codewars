@@ -1,8 +1,7 @@
 # Triple Trouble
 
 **Difficulty:** 8kyu  
-**Language:** JavaScript  
-**Link:** https://www.codewars.com/kata/5a0c0b8630ca0d985a00006a
+**Language:** JavaScript
 
 ---
 
