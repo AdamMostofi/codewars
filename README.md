@@ -21,7 +21,7 @@ Each folder contains individual challenge folders with:
 
 | Kyu | Solved |
 |-----|--------|
-| 8kyu | 2 |
+| 8kyu | 4 |
 | 7kyu | 0 |
 | 6kyu | 0 |
 | 5kyu | 0 |
