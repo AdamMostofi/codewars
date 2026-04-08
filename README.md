@@ -33,3 +33,4 @@ Each folder contains individual challenge folders with:
 ## Tech Stack
 
 - JavaScript (ES6+)
+- Python
